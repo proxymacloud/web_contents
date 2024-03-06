@@ -1,3 +1,5 @@
 {
-  
+  "root_domain" : "proxyma.cloud",
+  "cdn_domain" : "proxyma.b-cdn.net",
+  "static_files" : "proxyma.b-cdn.net/web_content/static"
 }
