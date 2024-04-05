@@ -14,7 +14,7 @@ The solo development of Proxyma Cloud has ended and a team has been formed.
 
 By the beginning of 2024, we are a full team and we have more people working on the service, which will strongly contribute to the progress of the project. Our team came up with a lot of new ideas, so we quickly realised that there was another big problem, but now in the Gaming World. It's incredibly expensive to find a decent Minecraft Protection service that's usable and rich in features. So we came up with a number of solutions and after a lot of thought, we decided to start working on Minecraft as well as Web protection. Proxyma Cloud aims to provide you with better, cheaper and hopefully free solutions. We don't want to be just an average company, we want to provide a service that everyone is happy to use.
 
-## Golas and Roadmap
+## Goals and Roadmap
 
 Our service is currently in a very early state and unfortunately not yet ready for publication, but we are working hard to open our gates as soon as possible.
 
